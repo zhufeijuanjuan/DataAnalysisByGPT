@@ -1,7 +1,9 @@
 # DataAnalysisByGPT
 data analysis driven by gpt
 
-#run
+# run
 ```
-python langchain_analyze.py
+python langchain_analyzer.py
 ```
+# demo view
+![image](examples.png)
